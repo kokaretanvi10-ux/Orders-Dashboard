@@ -7,6 +7,9 @@ This project showcases a comprehensive Orders Data Analysis Dashboard developed 
 The dashboard is designed to help businesses monitor sales performance, customer behavior, and order trends, enabling better strategic and operational decision-making.
 
 
+📷 Dashboard Preview - https://www.linkedin.com/feed/update/urn:li:activity:7468990885553147905/
+
+
 🎯 Business Problem
 
 Organizations often deal with large volumes of order data stored in unstructured or raw formats, making it difficult to extract meaningful insights.
